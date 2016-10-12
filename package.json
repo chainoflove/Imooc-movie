@@ -1,0 +1,33 @@
+{
+  "name": "imooc",
+  "version": "1.0.0",
+  "description": "imooc movies",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "^1.15.2",
+    "mongoose": "^4.6.3",
+    "underscore": "^1.8.3",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imooc",
+    "movie"
+  ],
+  "author": "Jenny",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chainoflove/Imooc-movie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chainoflove/Imooc-movie/issues"
+  },
+  "homepage": "https://github.com/chainoflove/Imooc-movie#readme"
+}
